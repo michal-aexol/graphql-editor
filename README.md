@@ -12,8 +12,9 @@
 
 **[Website](https://graphqleditor.com)**&nbsp;&nbsp;|&nbsp;&nbsp;**[Documentation](https://graphqleditor.com/docs)**&nbsp;&nbsp;|&nbsp;&nbsp;**[Discord](https://discord.gg/wVcZdmd)**
 
-![graphql-editor-gif](https://user-images.githubusercontent.com/779748/217845783-0f3c5cc3-d74d-4589-bfcb-79b49664935c.gif)
-
+<p align="center">
+  <img src="assets/main.gif">
+</p>
 </div>
 
 <br />
